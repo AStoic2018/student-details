@@ -1,0 +1,3 @@
+Name: Alex
+Student number: A00073225
+Course code: TU859
